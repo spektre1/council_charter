@@ -10,6 +10,11 @@ This is a series of living documents. The initial set are drafted by Buzzkill an
   * [Misconduct and accountability](shared_governance_model-misconduct_and_accountability.md)
 
 
+## Contributors
+
+* [Dani makes](https://github.com/spektre1)
+* [Buzzkill](https://github.com/Mizz-Buzz)
+
 ## Change History
 
 v0.1 - June 6th, 2026 - Initial Upload
